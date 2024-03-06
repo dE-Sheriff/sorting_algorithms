@@ -1,2 +1,2 @@
-# sorting_algorithms
-0x1B. C - Sorting algorithms &amp; Big O A task by Sarafadeen Sheriff
+0x1B. C - Sorting algorithms & Big O
+A task by Sarafadeen and Chinedu
