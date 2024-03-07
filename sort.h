@@ -24,5 +24,6 @@ void print_array(const int *array, size_t size);
 void bubble_sort(int *array, size_t size);
 void insertion_sort_list(listint_t **list);
 listint_t *step_down(listint_t *node, listint_t **listint_t);
+void selection_sort(int *array, size_t size);
 
 #endif /* sort.h */
