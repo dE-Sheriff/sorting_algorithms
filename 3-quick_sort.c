@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * swap - swaps items in array
+ * q_swap - swaps items in array
  * @xp: first item to swep
  * @yp: second item to swap with
  * Return: void
